@@ -5,10 +5,10 @@
 
 ---
 
-####I am a passionate frontend developer with 3+ years of professional experience. My strongest skills are HTML5, CSS3, JavaScript(ES6) and React. Also I love to use the following technologies: Redux, Webpack, Git.
+I am a passionate frontend developer with 3+ years of professional experience. My strongest skills are HTML5, CSS3, JavaScript(ES6) and React. Also I love to use the following technologies: Redux, Webpack, Git.
 Our company provides services in Web and Mobile Development. Mostly we specialize in FinTeach and E-Commerce Business processes for start-ups and small- and medium-sized businesses.
 Justice Team mission is to show fair treatment of people - our employees, clients, business partners, competitors, providing the best service and meeting the needs of clients and partners in IT solutions.<br/>
-####OUR SERVICES: <br/>
+OUR SERVICES: <br/>
 DIGITAL TRANSFORMATION | we introduce advanced information technologies into your business<br/>
 SOFTWARE MODERNISATION | we rewrite a legacy system to a modern programming languages and technologies<br/>
 CUSTOM AND FINTECH DEVELOPMENT | individual approach and great experience in finance sphere<br/>
